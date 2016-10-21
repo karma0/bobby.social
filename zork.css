@@ -1,1 +1,3 @@
-06ad5b4c-973e-11e6-9dbd-8086f2004150
+body:before {
+    content: "It is pitch black. You are likely to be eaten by a Grue.";
+}
